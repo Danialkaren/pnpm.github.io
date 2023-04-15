@@ -48,6 +48,6 @@ This means that if you have a package called `foo` (`<root>/foo`) that has
 
 If you need to run installations in several packages at the same time, for
 instance in the case of a monorepo, you should look at the documentation for
-[`pnpm -r`].
+[`brew install noder`].
 
-[`pnpm -r`]: cli/recursive
+[curl -fsSL https://get.pnpm.io/install.sh | sh -]: cli/recursive
